@@ -8,7 +8,7 @@ Written in Scala.
 ## 1. Factoring Polynomial
 Generate factoring practice questions with answers. The contents will be written to Factoring-Questions.txt and Factoring-Answers.txt
 - User input: "Factoring", and amount of question in worksheet.
-- Question format: **x^2 + bx + c**. Sample question: (i.e. x^2 - 8*x + 15)
+- Question format: **x^2 + bx + c**. Sample question: x^2 - 8*x + 15
 - Answer format: **(x+A)(x+B)**. Sample Solution: (x - 5)(x - 3)
 
 ## 2. Solving Quadratic Functions with Quadratic Formula
